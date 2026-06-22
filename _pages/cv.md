@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="https://drive.google.com/file/d/1XFNPLzxKcXw8ss_ZIOCLTy4xBWGUwr_e/view?usp=drive_link" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a>
+<a href="https://drive.google.com/file/d/1XFNPLzxKcXw8ss_ZIOCLTy4xBWGUwr_e/view?usp=drive_link" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a> <span class="page__meta">(Last updated: August 11, 2025)</span>
 
 
 <h2>Education</h2>
 <ul>
-  <li>Ph.D. in Industrial Engineering & Management Sciences, Northwestern University, Evanston, IL, Expected 2026
+  <li>Ph.D. in Industrial Engineering & Management Sciences, Northwestern University, Evanston, IL, 2026
     <ul>
       <li>Advisor: Professor Simge Küçükyavuz</li>
     </ul>
@@ -28,6 +28,9 @@ redirect_from:
 
 <h2>Experience</h2>
 <ul>
+  <li>Machine Learning Engineer, Uber Technologies (2026 - Present)
+  </li>
+
   <li>PhD Software Engineering Intern, Uber Technologies, Sunnyvale, CA (June 2025 - Sept 2025)
     <ul>
       <li>Researched and implemented deep learning models for preorder delivery time estimation</li>

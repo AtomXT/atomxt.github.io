@@ -22,14 +22,14 @@ repository               : "atomxt/atomxt.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Tong1.jpg"
+  avatar           : "tong-xu-headshot.jpg"
   name             : "徐通 Tong Xu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
-  location         : "Evanston"
-  employer         : "Northwestern University"
+  bio              : "Ph.D."
+  location         : "New York City"
+  employer         : "@Uber"
   uri              : # URL
-  email            : "tongxu2027@u.northwestern.edu" 
+  email            : "xtong519@gmail.com"
 
   # Academic websites
   academia         : # URL

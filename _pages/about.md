@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Industrial Engineering and Management Sciences department at Northwestern University, where I am fortunate to be advised by Professor [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/).
+I received my Ph.D. from the Department of Industrial Engineering and Management Sciences at Northwestern University, where I was advised by Professor [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/).
 
-I am currently on the academic job market for faculty positions starting Fall 2026.
+I am joining Uber as a Machine Learning Engineer.
 
 Research Interests
 ======
