@@ -40,6 +40,7 @@ redirect_from:
 
 <h2>Honors and Awards</h2>
 <ul>
+  <li>2026 Nelson Best Paper Award</li>
   <li>2025 David Graham and Florence Graham Scholarship</li>
   <li>2024 Richard L. Francis Scholarship</li>
   <li>2023 Arthur P. Hurter Outstanding First-Year Graduate Student Award</li>
